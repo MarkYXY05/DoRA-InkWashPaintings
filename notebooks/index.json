@@ -1,0 +1,98 @@
+[
+  {
+    "source": "DoRA/Complete Pipeline Diffusion DoRA - Chinese Paintings.ipynb",
+    "file": "notebooks/diffusion/inkwash-large.ipynb",
+    "cells": 47,
+    "extracted_image_outputs": 6
+  },
+  {
+    "source": "DoRA/Complete Pipeline Diffusion DoRA - Small-Set Chinese Paintings.ipynb",
+    "file": "notebooks/diffusion/inkwash-small.ipynb",
+    "cells": 46,
+    "extracted_image_outputs": 6
+  },
+  {
+    "source": "DoRA/Line-sketch/Complete Pipeliine Diffusion DoRA - LineSketch.ipynb",
+    "file": "notebooks/diffusion/line-sketch.ipynb",
+    "cells": 49,
+    "extracted_image_outputs": 6
+  },
+  {
+    "source": "DoRA/Line Sketch Cake/Complete Pipeliine Diffusion DoRA - Line Sketch Cake.ipynb",
+    "file": "notebooks/diffusion/cake-sketch.ipynb",
+    "cells": 43,
+    "extracted_image_outputs": 6
+  },
+  {
+    "source": "DoRA/The Defect/Complete Pipeliine Diffusion DoRA - The Defect.ipynb",
+    "file": "notebooks/diffusion/character.ipynb",
+    "cells": 47,
+    "extracted_image_outputs": 6
+  },
+  {
+    "source": "DoRA/DoRA_Reimplementation.ipynb",
+    "file": "notebooks/language/commonsense-latest-export.ipynb",
+    "cells": 33,
+    "extracted_image_outputs": 0
+  },
+  {
+    "source": "DORA_ReImplementation/code/DoRA_Reimplementation.ipynb",
+    "file": "notebooks/language/commonsense.ipynb",
+    "cells": 35,
+    "extracted_image_outputs": 0
+  },
+  {
+    "source": "DORA_ReImplementation/code/RLHF_ManualDPO_LoRA_vs_CustomDoRA.ipynb",
+    "file": "notebooks/alignment/manual-dpo.ipynb",
+    "cells": 14,
+    "extracted_image_outputs": 0
+  },
+  {
+    "source": "DORA_ReImplementation/code/DoRA_weight_decomposition.ipynb",
+    "file": "notebooks/analysis/weight-decomposition.ipynb",
+    "cells": 43,
+    "extracted_image_outputs": 4
+  },
+  {
+    "source": "DoRA/IVT Understanding/DoRA_IVT.ipynb",
+    "file": "notebooks/vision-language/vqa.ipynb",
+    "cells": 26,
+    "extracted_image_outputs": 0
+  },
+  {
+    "source": "DORA_ReImplementation/code/DoRA_IVT.ipynb",
+    "file": "notebooks/archive/vqa-packaged.ipynb",
+    "cells": 24,
+    "extracted_image_outputs": 0
+  },
+  {
+    "source": "DORA_ReImplementation/code/Complete_Pipeline_Diffusion_DoRA_Small_Set_Chinese_Paintings.ipynb",
+    "file": "notebooks/archive/inkwash-small-packaged.ipynb",
+    "cells": 46,
+    "extracted_image_outputs": 7
+  },
+  {
+    "source": "DoRA/DoRA for Diffusion.ipynb",
+    "file": "notebooks/archive/diffusion-prototype.ipynb",
+    "cells": 18,
+    "extracted_image_outputs": 1
+  },
+  {
+    "source": "DoRA/Diffusion DoRA - Chinese Paintings.ipynb",
+    "file": "notebooks/archive/inkwash-prototype.ipynb",
+    "cells": 19,
+    "extracted_image_outputs": 0
+  },
+  {
+    "source": "DoRA/01_DoRA_Implementation_and_Test.ipynb",
+    "file": "notebooks/archive/initial-implementation.ipynb",
+    "cells": 4,
+    "extracted_image_outputs": 0
+  },
+  {
+    "source": "DORA_ReImplementation/DoRA.ipynb",
+    "file": "notebooks/archive/early-language.ipynb",
+    "cells": 19,
+    "extracted_image_outputs": 0
+  }
+]

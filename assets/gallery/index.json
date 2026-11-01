@@ -1,0 +1,874 @@
+[
+  {
+    "file": "assets/gallery/chinese-ink/base/base_prompt_1.png",
+    "collection": "chinese-ink",
+    "method": "base",
+    "sources": [
+      "DoRA/Chinese-art-large-results/generated_images/base/base_prompt_1.png",
+      "Image Demo/generated_images/base/base_prompt_1.png",
+      "DORA_ReImplementation/results/Diffusion-Chinese-painting-results/generated_images/base/base_prompt_1.png"
+    ],
+    "sha256": "823f57b7720e13e70a27afdf81c091858e79b2587fecd619e600902ab688fdd8",
+    "width": 1024,
+    "height": 1024
+  },
+  {
+    "file": "assets/gallery/chinese-ink/base/base_prompt_2.png",
+    "collection": "chinese-ink",
+    "method": "base",
+    "sources": [
+      "DoRA/Chinese-art-large-results/generated_images/base/base_prompt_2.png",
+      "Image Demo/generated_images/base/base_prompt_2.png",
+      "DORA_ReImplementation/results/Diffusion-Chinese-painting-results/generated_images/base/base_prompt_2.png"
+    ],
+    "sha256": "60dd92b9fefdf15184a5d3d5be7cdcf8dbd6603629ac2fe4e1160371dd7126aa",
+    "width": 1024,
+    "height": 1024
+  },
+  {
+    "file": "assets/gallery/chinese-ink/base/base_prompt_3.png",
+    "collection": "chinese-ink",
+    "method": "base",
+    "sources": [
+      "DoRA/Chinese-art-large-results/generated_images/base/base_prompt_3.png",
+      "Image Demo/generated_images/base/base_prompt_3.png",
+      "DORA_ReImplementation/results/Diffusion-Chinese-painting-results/generated_images/base/base_prompt_3.png"
+    ],
+    "sha256": "0721ceac4ca29eba79734ad0b333c44175c5bac9fc5fd59ae4b0de4c61c28c72",
+    "width": 1024,
+    "height": 1024
+  },
+  {
+    "file": "assets/gallery/chinese-ink/base/base_prompt_4.png",
+    "collection": "chinese-ink",
+    "method": "base",
+    "sources": [
+      "DoRA/Chinese-art-large-results/generated_images/base/base_prompt_4.png",
+      "DoRA/results/generated_images/base/base_prompt_4.png",
+      "Image Demo/generated_images/base/base_prompt_4.png",
+      "DORA_ReImplementation/results/Diffusion-Chinese-painting-results/generated_images/base/base_prompt_4.png"
+    ],
+    "sha256": "542b17e839de44bfded5b565191db656d75ee247205779d7d2bf12d30d54c6eb",
+    "width": 1024,
+    "height": 1024
+  },
+  {
+    "file": "assets/gallery/chinese-ink/base/base_prompt_5.png",
+    "collection": "chinese-ink",
+    "method": "base",
+    "sources": [
+      "DoRA/Chinese-art-large-results/generated_images/base/base_prompt_5.png",
+      "DoRA/results/generated_images/base/base_prompt_5.png",
+      "Image Demo/generated_images/base/base_prompt_5.png",
+      "DORA_ReImplementation/results/Diffusion-Chinese-painting-results/generated_images/base/base_prompt_5.png"
+    ],
+    "sha256": "f69ac3689a06ed63711b3e3abec52c2821c5811223185904cc6564c7f324e3b1",
+    "width": 1024,
+    "height": 1024
+  },
+  {
+    "file": "assets/gallery/chinese-ink/base/base_prompt_6.png",
+    "collection": "chinese-ink",
+    "method": "base",
+    "sources": [
+      "DoRA/Chinese-art-large-results/generated_images/base/base_prompt_6.png",
+      "DoRA/results/generated_images/base/base_prompt_6.png",
+      "Image Demo/generated_images/base/base_prompt_6.png",
+      "DORA_ReImplementation/results/Diffusion-Chinese-painting-results/generated_images/base/base_prompt_6.png"
+    ],
+    "sha256": "c293fcfaab3223c3de891d176ea3458fce1333f71842e134d9a0b79c73bb9fe1",
+    "width": 1024,
+    "height": 1024
+  },
+  {
+    "file": "assets/gallery/chinese-ink/dora/dora_prompt_1.png",
+    "collection": "chinese-ink",
+    "method": "dora",
+    "sources": [
+      "DoRA/Chinese-art-large-results/generated_images/dora/dora_prompt_1.png",
+      "Image Demo/generated_images/dora/dora_prompt_1.png",
+      "DORA_ReImplementation/results/Diffusion-Chinese-painting-results/generated_images/dora/dora_prompt_1.png"
+    ],
+    "sha256": "07a63cdef097305c11e73782d3fc8a09390dae76c26ad059a73117fbcf85481d",
+    "width": 1024,
+    "height": 1024
+  },
+  {
+    "file": "assets/gallery/chinese-ink/dora/dora_prompt_2.png",
+    "collection": "chinese-ink",
+    "method": "dora",
+    "sources": [
+      "DoRA/Chinese-art-large-results/generated_images/dora/dora_prompt_2.png",
+      "Image Demo/generated_images/dora/dora_prompt_2.png",
+      "DORA_ReImplementation/results/Diffusion-Chinese-painting-results/generated_images/dora/dora_prompt_2.png"
+    ],
+    "sha256": "a1f132e401d1776fa429b2b2b5abfdc96ecaa7ee7aa2ac0010cc86119d8537f0",
+    "width": 1024,
+    "height": 1024
+  },
+  {
+    "file": "assets/gallery/chinese-ink/dora/dora_prompt_3.png",
+    "collection": "chinese-ink",
+    "method": "dora",
+    "sources": [
+      "DoRA/Chinese-art-large-results/generated_images/dora/dora_prompt_3.png",
+      "Image Demo/generated_images/dora/dora_prompt_3.png",
+      "DORA_ReImplementation/results/Diffusion-Chinese-painting-results/generated_images/dora/dora_prompt_3.png"
+    ],
+    "sha256": "c4d794a147a0095a9efdf96cb88b8ec552ad6f8f32239e8775ee9c3fa1b7b83c",
+    "width": 1024,
+    "height": 1024
+  },
+  {
+    "file": "assets/gallery/chinese-ink/dora/dora_prompt_4.png",
+    "collection": "chinese-ink",
+    "method": "dora",
+    "sources": [
+      "DoRA/Chinese-art-large-results/generated_images/dora/dora_prompt_4.png",
+      "Image Demo/generated_images/dora/dora_prompt_4.png",
+      "DORA_ReImplementation/results/Diffusion-Chinese-painting-results/generated_images/dora/dora_prompt_4.png"
+    ],
+    "sha256": "92cff4032bbf4b69e860f887d96fcd733115cf4378a3d76a9c6a7fb0bd3872e9",
+    "width": 1024,
+    "height": 1024
+  },
+  {
+    "file": "assets/gallery/chinese-ink/dora/dora_prompt_5.png",
+    "collection": "chinese-ink",
+    "method": "dora",
+    "sources": [
+      "DoRA/Chinese-art-large-results/generated_images/dora/dora_prompt_5.png",
+      "Image Demo/generated_images/dora/dora_prompt_5.png",
+      "DORA_ReImplementation/results/Diffusion-Chinese-painting-results/generated_images/dora/dora_prompt_5.png"
+    ],
+    "sha256": "63f059b390d9381a491f3ce1db9d0e982e744eb6594432e8e009b0c1b4ee1407",
+    "width": 1024,
+    "height": 1024
+  },
+  {
+    "file": "assets/gallery/chinese-ink/dora/dora_prompt_6.png",
+    "collection": "chinese-ink",
+    "method": "dora",
+    "sources": [
+      "DoRA/Chinese-art-large-results/generated_images/dora/dora_prompt_6.png",
+      "Image Demo/generated_images/dora/dora_prompt_6.png",
+      "DORA_ReImplementation/results/Diffusion-Chinese-painting-results/generated_images/dora/dora_prompt_6.png"
+    ],
+    "sha256": "3a4fafc37b6df40180aad2082487eca199ba5507039876dc95344893fcde6255",
+    "width": 1024,
+    "height": 1024
+  },
+  {
+    "file": "assets/gallery/chinese-ink/full/full_prompt_1.png",
+    "collection": "chinese-ink",
+    "method": "full",
+    "sources": [
+      "DoRA/Chinese-art-large-results/generated_images/full/full_prompt_1.png",
+      "DORA_ReImplementation/results/Diffusion-Chinese-painting-results/generated_images/full/full_prompt_1.png"
+    ],
+    "sha256": "331c78d1277113f99e2793c641c1b0d2edd72c1e3758af32da2e02855862e43b",
+    "width": 1024,
+    "height": 1024
+  },
+  {
+    "file": "assets/gallery/chinese-ink/full/full_prompt_2.png",
+    "collection": "chinese-ink",
+    "method": "full",
+    "sources": [
+      "DoRA/Chinese-art-large-results/generated_images/full/full_prompt_2.png",
+      "DORA_ReImplementation/results/Diffusion-Chinese-painting-results/generated_images/full/full_prompt_2.png"
+    ],
+    "sha256": "0e332560db6748e69a707bbc2fd7a79a9c3cb8b83dd9147b8172f43e6653002a",
+    "width": 1024,
+    "height": 1024
+  },
+  {
+    "file": "assets/gallery/chinese-ink/full/full_prompt_3.png",
+    "collection": "chinese-ink",
+    "method": "full",
+    "sources": [
+      "DoRA/Chinese-art-large-results/generated_images/full/full_prompt_3.png",
+      "DORA_ReImplementation/results/Diffusion-Chinese-painting-results/generated_images/full/full_prompt_3.png"
+    ],
+    "sha256": "7c07c60d7b7cf83df08827964cc2d23d2212133daedd71eefe5fe31e31164cce",
+    "width": 1024,
+    "height": 1024
+  },
+  {
+    "file": "assets/gallery/chinese-ink/full/full_prompt_4.png",
+    "collection": "chinese-ink",
+    "method": "full",
+    "sources": [
+      "DoRA/Chinese-art-large-results/generated_images/full/full_prompt_4.png",
+      "DORA_ReImplementation/results/Diffusion-Chinese-painting-results/generated_images/full/full_prompt_4.png"
+    ],
+    "sha256": "ec660bb69425ccd28d0f27edb4e363732f055f0f68b6756e504d2682fe8963e4",
+    "width": 1024,
+    "height": 1024
+  },
+  {
+    "file": "assets/gallery/chinese-ink/full/full_prompt_5.png",
+    "collection": "chinese-ink",
+    "method": "full",
+    "sources": [
+      "DoRA/Chinese-art-large-results/generated_images/full/full_prompt_5.png",
+      "DORA_ReImplementation/results/Diffusion-Chinese-painting-results/generated_images/full/full_prompt_5.png"
+    ],
+    "sha256": "137c252a2e612a7ff38ad6226713bae263d98a74e185e01566d9e5688283ce0c",
+    "width": 1024,
+    "height": 1024
+  },
+  {
+    "file": "assets/gallery/chinese-ink/full/full_prompt_6.png",
+    "collection": "chinese-ink",
+    "method": "full",
+    "sources": [
+      "DoRA/Chinese-art-large-results/generated_images/full/full_prompt_6.png",
+      "DORA_ReImplementation/results/Diffusion-Chinese-painting-results/generated_images/full/full_prompt_6.png"
+    ],
+    "sha256": "e2659a455f7035896dad3281908f1110c9a542bf760493e1ad9d0fa5ac80c027",
+    "width": 1024,
+    "height": 1024
+  },
+  {
+    "file": "assets/gallery/chinese-ink/lora/lora_prompt_1.png",
+    "collection": "chinese-ink",
+    "method": "lora",
+    "sources": [
+      "DoRA/Chinese-art-large-results/generated_images/lora/lora_prompt_1.png",
+      "Image Demo/generated_images/lora/lora_prompt_1.png",
+      "DORA_ReImplementation/results/Diffusion-Chinese-painting-results/generated_images/lora/lora_prompt_1.png"
+    ],
+    "sha256": "dfe2af4f058d61fa6e82dba46d3f597ef842081f962b4541210f5d8a89f3fd81",
+    "width": 1024,
+    "height": 1024
+  },
+  {
+    "file": "assets/gallery/chinese-ink/lora/lora_prompt_2.png",
+    "collection": "chinese-ink",
+    "method": "lora",
+    "sources": [
+      "DoRA/Chinese-art-large-results/generated_images/lora/lora_prompt_2.png",
+      "Image Demo/generated_images/lora/lora_prompt_2.png",
+      "DORA_ReImplementation/results/Diffusion-Chinese-painting-results/generated_images/lora/lora_prompt_2.png"
+    ],
+    "sha256": "4468980a5aac325d8794c5b92e2a5c929f4fa7af93a44990ddf55e4e7b1c58cf",
+    "width": 1024,
+    "height": 1024
+  },
+  {
+    "file": "assets/gallery/chinese-ink/lora/lora_prompt_3.png",
+    "collection": "chinese-ink",
+    "method": "lora",
+    "sources": [
+      "DoRA/Chinese-art-large-results/generated_images/lora/lora_prompt_3.png",
+      "Image Demo/generated_images/lora/lora_prompt_3.png",
+      "DORA_ReImplementation/results/Diffusion-Chinese-painting-results/generated_images/lora/lora_prompt_3.png"
+    ],
+    "sha256": "fc1cf90893184c751320d668bad17de3fc05c2470c2ca725592cfe81fbdaddd9",
+    "width": 1024,
+    "height": 1024
+  },
+  {
+    "file": "assets/gallery/chinese-ink/lora/lora_prompt_4.png",
+    "collection": "chinese-ink",
+    "method": "lora",
+    "sources": [
+      "DoRA/Chinese-art-large-results/generated_images/lora/lora_prompt_4.png",
+      "Image Demo/generated_images/lora/lora_prompt_4.png",
+      "DORA_ReImplementation/results/Diffusion-Chinese-painting-results/generated_images/lora/lora_prompt_4.png"
+    ],
+    "sha256": "f9ef52e0903e176dd781181f4f84c36c4a20997855d373292f1e8afcd65701d8",
+    "width": 1024,
+    "height": 1024
+  },
+  {
+    "file": "assets/gallery/chinese-ink/lora/lora_prompt_5.png",
+    "collection": "chinese-ink",
+    "method": "lora",
+    "sources": [
+      "DoRA/Chinese-art-large-results/generated_images/lora/lora_prompt_5.png",
+      "Image Demo/generated_images/lora/lora_prompt_5.png",
+      "DORA_ReImplementation/results/Diffusion-Chinese-painting-results/generated_images/lora/lora_prompt_5.png"
+    ],
+    "sha256": "b362d0dd38bf7a69a029640fabe1f4264f546805557099c8b5bba92b53e05dfd",
+    "width": 1024,
+    "height": 1024
+  },
+  {
+    "file": "assets/gallery/chinese-ink/lora/lora_prompt_6.png",
+    "collection": "chinese-ink",
+    "method": "lora",
+    "sources": [
+      "DoRA/Chinese-art-large-results/generated_images/lora/lora_prompt_6.png",
+      "Image Demo/generated_images/lora/lora_prompt_6.png",
+      "DORA_ReImplementation/results/Diffusion-Chinese-painting-results/generated_images/lora/lora_prompt_6.png"
+    ],
+    "sha256": "e11f096535f5c813750800db48233dadfcddf4261e7d2fa310c581c7004b70c5",
+    "width": 1024,
+    "height": 1024
+  },
+  {
+    "file": "assets/gallery/line-sketch/base/base_prompt_1.png",
+    "collection": "line-sketch",
+    "method": "base",
+    "sources": [
+      "DoRA/Line-sketch/line-sketch_results/generated_images/base/base_prompt_1.png"
+    ],
+    "sha256": "bfd4a95feaa4249f955bf9cc1b7083ac4a4df1c402f1e291ee9b56fcda8413fc",
+    "width": 1024,
+    "height": 1024
+  },
+  {
+    "file": "assets/gallery/line-sketch/base/base_prompt_2.png",
+    "collection": "line-sketch",
+    "method": "base",
+    "sources": [
+      "DoRA/Line-sketch/line-sketch_results/generated_images/base/base_prompt_2.png"
+    ],
+    "sha256": "196c27d6de37a6d0f89829720d1287028d15db44a045cff6f39102ae876746c7",
+    "width": 1024,
+    "height": 1024
+  },
+  {
+    "file": "assets/gallery/line-sketch/base/base_prompt_3.png",
+    "collection": "line-sketch",
+    "method": "base",
+    "sources": [
+      "DoRA/Line-sketch/line-sketch_results/generated_images/base/base_prompt_3.png"
+    ],
+    "sha256": "c93191781a1d418077821f7e42c81fc8b527ab3daee3c0d92ce8d454a3d51267",
+    "width": 1024,
+    "height": 1024
+  },
+  {
+    "file": "assets/gallery/line-sketch/base/base_prompt_4.png",
+    "collection": "line-sketch",
+    "method": "base",
+    "sources": [
+      "DoRA/Line-sketch/line-sketch_results/generated_images/base/base_prompt_4.png"
+    ],
+    "sha256": "20b98eab971b55d3eb1083ed067526d20881d31d310955446ac83a7106f07d09",
+    "width": 1024,
+    "height": 1024
+  },
+  {
+    "file": "assets/gallery/line-sketch/dora/dora_prompt_1.png",
+    "collection": "line-sketch",
+    "method": "dora",
+    "sources": [
+      "DoRA/Line-sketch/line-sketch_results/generated_images/dora/dora_prompt_1.png"
+    ],
+    "sha256": "c87c7a4c1da3fd784f96f3fbd23a7e7b34f2dcc915ef306042921a8b00c8c445",
+    "width": 1024,
+    "height": 1024
+  },
+  {
+    "file": "assets/gallery/line-sketch/dora/dora_prompt_2.png",
+    "collection": "line-sketch",
+    "method": "dora",
+    "sources": [
+      "DoRA/Line-sketch/line-sketch_results/generated_images/dora/dora_prompt_2.png"
+    ],
+    "sha256": "fa55dcf46a3b042ccbc2f5fc5a5c463bd84f5a996378c38e96ce9c87507fc1c0",
+    "width": 1024,
+    "height": 1024
+  },
+  {
+    "file": "assets/gallery/line-sketch/dora/dora_prompt_3.png",
+    "collection": "line-sketch",
+    "method": "dora",
+    "sources": [
+      "DoRA/Line-sketch/line-sketch_results/generated_images/dora/dora_prompt_3.png"
+    ],
+    "sha256": "2fe37a53999e13623e573ad3a076680aa632d0b20d80bcbf1820e39d883732e0",
+    "width": 1024,
+    "height": 1024
+  },
+  {
+    "file": "assets/gallery/line-sketch/dora/dora_prompt_4.png",
+    "collection": "line-sketch",
+    "method": "dora",
+    "sources": [
+      "DoRA/Line-sketch/line-sketch_results/generated_images/dora/dora_prompt_4.png"
+    ],
+    "sha256": "c0ab74a5972e7a2f50b68543d8483a97830ddecd19daeb16d2c20f699a512e08",
+    "width": 1024,
+    "height": 1024
+  },
+  {
+    "file": "assets/gallery/line-sketch/full/full_prompt_1.png",
+    "collection": "line-sketch",
+    "method": "full",
+    "sources": [
+      "DoRA/Line-sketch/line-sketch_results/generated_images/full/full_prompt_1.png"
+    ],
+    "sha256": "4ca969a092928c545e378f266534225e68b32856559691548bdc3463d2e638bc",
+    "width": 1024,
+    "height": 1024
+  },
+  {
+    "file": "assets/gallery/line-sketch/full/full_prompt_2.png",
+    "collection": "line-sketch",
+    "method": "full",
+    "sources": [
+      "DoRA/Line-sketch/line-sketch_results/generated_images/full/full_prompt_2.png"
+    ],
+    "sha256": "162bd7dd9bc4adc105d7c3db3e4e4d90cdb672e55fa9dd64f240cf239ebe8a5b",
+    "width": 1024,
+    "height": 1024
+  },
+  {
+    "file": "assets/gallery/line-sketch/full/full_prompt_3.png",
+    "collection": "line-sketch",
+    "method": "full",
+    "sources": [
+      "DoRA/Line-sketch/line-sketch_results/generated_images/full/full_prompt_3.png"
+    ],
+    "sha256": "2ed92aa285a25eb76e55d57796e8cafe647895569966ae148cd6beb9c1f86d9d",
+    "width": 1024,
+    "height": 1024
+  },
+  {
+    "file": "assets/gallery/line-sketch/full/full_prompt_4.png",
+    "collection": "line-sketch",
+    "method": "full",
+    "sources": [
+      "DoRA/Line-sketch/line-sketch_results/generated_images/full/full_prompt_4.png"
+    ],
+    "sha256": "406af2e2dd535e87c47a51eb0556adf75cbad65e4d1b5ab1947cff590b406c18",
+    "width": 1024,
+    "height": 1024
+  },
+  {
+    "file": "assets/gallery/line-sketch/lora/lora_prompt_1.png",
+    "collection": "line-sketch",
+    "method": "lora",
+    "sources": [
+      "DoRA/Line-sketch/line-sketch_results/generated_images/lora/lora_prompt_1.png"
+    ],
+    "sha256": "25349abb0d7a7c67397f0d262c4e43fe45439a6464a72bd9313a74f60caa4f94",
+    "width": 1024,
+    "height": 1024
+  },
+  {
+    "file": "assets/gallery/line-sketch/lora/lora_prompt_2.png",
+    "collection": "line-sketch",
+    "method": "lora",
+    "sources": [
+      "DoRA/Line-sketch/line-sketch_results/generated_images/lora/lora_prompt_2.png"
+    ],
+    "sha256": "77c6ed65e64f3e29f1963c352ce7e6f4b3e052540cd92c138c43212738fb2ac9",
+    "width": 1024,
+    "height": 1024
+  },
+  {
+    "file": "assets/gallery/line-sketch/lora/lora_prompt_3.png",
+    "collection": "line-sketch",
+    "method": "lora",
+    "sources": [
+      "DoRA/Line-sketch/line-sketch_results/generated_images/lora/lora_prompt_3.png"
+    ],
+    "sha256": "bea579d3aa375a02d3d939b761ab3b67c75c223bdfc2a6047851006d0e0315f3",
+    "width": 1024,
+    "height": 1024
+  },
+  {
+    "file": "assets/gallery/line-sketch/lora/lora_prompt_4.png",
+    "collection": "line-sketch",
+    "method": "lora",
+    "sources": [
+      "DoRA/Line-sketch/line-sketch_results/generated_images/lora/lora_prompt_4.png"
+    ],
+    "sha256": "33f7789f06c3db17fd8f3c5991c20b25d6907ac7ca67edce0d5d46767b3c7e3c",
+    "width": 1024,
+    "height": 1024
+  },
+  {
+    "file": "assets/gallery/cake-sketch/base/base_prompt_1.png",
+    "collection": "cake-sketch",
+    "method": "base",
+    "sources": [
+      "DoRA/Line Sketch Cake/results/generated_images/base/base_prompt_1.png",
+      "DORA_ReImplementation/results/Other-results/Cake-results/generated_images/base/base_prompt_1.png"
+    ],
+    "sha256": "ff700115955f40a168eca6e6b29062367f828bef8b741230a155f1dbb23e0cc0",
+    "width": 1024,
+    "height": 1024
+  },
+  {
+    "file": "assets/gallery/cake-sketch/base/base_prompt_2.png",
+    "collection": "cake-sketch",
+    "method": "base",
+    "sources": [
+      "DoRA/Line Sketch Cake/results/generated_images/base/base_prompt_2.png",
+      "DORA_ReImplementation/results/Other-results/Cake-results/generated_images/base/base_prompt_2.png"
+    ],
+    "sha256": "366f9e4ccff38c3c7065f4aa9f64334ca3139c887203baceef6eaee502b462aa",
+    "width": 1024,
+    "height": 1024
+  },
+  {
+    "file": "assets/gallery/cake-sketch/dora/dora_prompt_1.png",
+    "collection": "cake-sketch",
+    "method": "dora",
+    "sources": [
+      "DoRA/Line Sketch Cake/results/generated_images/dora/dora_prompt_1.png",
+      "DORA_ReImplementation/results/Other-results/Cake-results/generated_images/dora/dora_prompt_1.png"
+    ],
+    "sha256": "a9fb6f96506b3e6df389ef4a97584ef93c525192cc2d04ca3aff9b3714c305cc",
+    "width": 1024,
+    "height": 1024
+  },
+  {
+    "file": "assets/gallery/cake-sketch/dora/dora_prompt_2.png",
+    "collection": "cake-sketch",
+    "method": "dora",
+    "sources": [
+      "DoRA/Line Sketch Cake/results/generated_images/dora/dora_prompt_2.png",
+      "DORA_ReImplementation/results/Other-results/Cake-results/generated_images/dora/dora_prompt_2.png"
+    ],
+    "sha256": "497f2034c72c378eb16be6b27b469fa5a4e31d167763736423ad91b8a1de34e4",
+    "width": 1024,
+    "height": 1024
+  },
+  {
+    "file": "assets/gallery/cake-sketch/full/full_prompt_1.png",
+    "collection": "cake-sketch",
+    "method": "full",
+    "sources": [
+      "DoRA/Line Sketch Cake/results/generated_images/full/full_prompt_1.png",
+      "DORA_ReImplementation/results/Other-results/Cake-results/generated_images/full/full_prompt_1.png"
+    ],
+    "sha256": "c9491dad2ae4e3157d8a7159cadba823e58aaaed5f23d5d0eaa3f7b7ec88631d",
+    "width": 1024,
+    "height": 1024
+  },
+  {
+    "file": "assets/gallery/cake-sketch/full/full_prompt_2.png",
+    "collection": "cake-sketch",
+    "method": "full",
+    "sources": [
+      "DoRA/Line Sketch Cake/results/generated_images/full/full_prompt_2.png",
+      "DORA_ReImplementation/results/Other-results/Cake-results/generated_images/full/full_prompt_2.png"
+    ],
+    "sha256": "7831b5ef82f3e3c0fad15471f179fe3932f34e57716f8bf8862708ba9b5398ce",
+    "width": 1024,
+    "height": 1024
+  },
+  {
+    "file": "assets/gallery/cake-sketch/lora/lora_prompt_1.png",
+    "collection": "cake-sketch",
+    "method": "lora",
+    "sources": [
+      "DoRA/Line Sketch Cake/results/generated_images/lora/lora_prompt_1.png",
+      "DORA_ReImplementation/results/Other-results/Cake-results/generated_images/lora/lora_prompt_1.png"
+    ],
+    "sha256": "ad78ebc6353f9bb32586a98d935ef0b64373873798f7d0a916455c46d614abb5",
+    "width": 1024,
+    "height": 1024
+  },
+  {
+    "file": "assets/gallery/cake-sketch/lora/lora_prompt_2.png",
+    "collection": "cake-sketch",
+    "method": "lora",
+    "sources": [
+      "DoRA/Line Sketch Cake/results/generated_images/lora/lora_prompt_2.png",
+      "DORA_ReImplementation/results/Other-results/Cake-results/generated_images/lora/lora_prompt_2.png"
+    ],
+    "sha256": "bd526da22373fff66b69bace348b571c5e5794c8d68035367b564864e72e873d",
+    "width": 1024,
+    "height": 1024
+  },
+  {
+    "file": "assets/gallery/character/base/base_prompt_1.png",
+    "collection": "character",
+    "method": "base",
+    "sources": [
+      "DoRA/The Defect/results/generated_images/base/base_prompt_1.png",
+      "DoRA/results/generated_images/base/base_prompt_1.png",
+      "DORA_ReImplementation/results/Other-results/The-Defect-results/generated_images/base/base_prompt_1.png"
+    ],
+    "sha256": "3f00c4d101235bb4969f39932f14026a09ac3a89a90b06f52670e341bff3071e",
+    "width": 1024,
+    "height": 1024
+  },
+  {
+    "file": "assets/gallery/character/base/base_prompt_2.png",
+    "collection": "character",
+    "method": "base",
+    "sources": [
+      "DoRA/The Defect/results/generated_images/base/base_prompt_2.png",
+      "DoRA/results/generated_images/base/base_prompt_2.png",
+      "DORA_ReImplementation/results/Other-results/The-Defect-results/generated_images/base/base_prompt_2.png"
+    ],
+    "sha256": "df22e90ddcc9c428495cf5765ef610d38ca157ed0791f292f66c38aa1575a466",
+    "width": 1024,
+    "height": 1024
+  },
+  {
+    "file": "assets/gallery/character/base/base_prompt_3.png",
+    "collection": "character",
+    "method": "base",
+    "sources": [
+      "DoRA/The Defect/results/generated_images/base/base_prompt_3.png",
+      "DoRA/results/generated_images/base/base_prompt_3.png",
+      "DORA_ReImplementation/results/Other-results/The-Defect-results/generated_images/base/base_prompt_3.png"
+    ],
+    "sha256": "ffd767349745d0f9fbacdb9080d09a6fe40d7e44555809950a3d3d6f7f7f7df2",
+    "width": 1024,
+    "height": 1024
+  },
+  {
+    "file": "assets/gallery/character/dora/dora_prompt_1.png",
+    "collection": "character",
+    "method": "dora",
+    "sources": [
+      "DoRA/The Defect/results/generated_images/dora/dora_prompt_1.png",
+      "DoRA/results/generated_images/dora/dora_prompt_1.png",
+      "DORA_ReImplementation/results/Other-results/The-Defect-results/generated_images/dora/dora_prompt_1.png"
+    ],
+    "sha256": "d88c21ced7b6d18b19dedd08f1ce1f82cdf71617b2b6f97f0beb0d5b1b684422",
+    "width": 1024,
+    "height": 1024
+  },
+  {
+    "file": "assets/gallery/character/dora/dora_prompt_2.png",
+    "collection": "character",
+    "method": "dora",
+    "sources": [
+      "DoRA/The Defect/results/generated_images/dora/dora_prompt_2.png",
+      "DoRA/results/generated_images/dora/dora_prompt_2.png",
+      "DORA_ReImplementation/results/Other-results/The-Defect-results/generated_images/dora/dora_prompt_2.png"
+    ],
+    "sha256": "4cca4c102fa90da232f9dc005473dac21debe0b3e87c44bfe51f6640ed5bd145",
+    "width": 1024,
+    "height": 1024
+  },
+  {
+    "file": "assets/gallery/character/dora/dora_prompt_3.png",
+    "collection": "character",
+    "method": "dora",
+    "sources": [
+      "DoRA/The Defect/results/generated_images/dora/dora_prompt_3.png",
+      "DoRA/results/generated_images/dora/dora_prompt_3.png",
+      "DORA_ReImplementation/results/Other-results/The-Defect-results/generated_images/dora/dora_prompt_3.png"
+    ],
+    "sha256": "ea1ac41ae11acfb88da1580e255eded32ed4b47dcc6100f914c6d864731b1b73",
+    "width": 1024,
+    "height": 1024
+  },
+  {
+    "file": "assets/gallery/character/full/full_prompt_1.png",
+    "collection": "character",
+    "method": "full",
+    "sources": [
+      "DoRA/The Defect/results/generated_images/full/full_prompt_1.png",
+      "DoRA/results/generated_images/full/full_prompt_1.png",
+      "DORA_ReImplementation/results/Other-results/The-Defect-results/generated_images/full/full_prompt_1.png"
+    ],
+    "sha256": "dae2bf4c06868269cd7068df954fe727e56cf128d45486ac12edfae94f44d61e",
+    "width": 1024,
+    "height": 1024
+  },
+  {
+    "file": "assets/gallery/character/full/full_prompt_2.png",
+    "collection": "character",
+    "method": "full",
+    "sources": [
+      "DoRA/The Defect/results/generated_images/full/full_prompt_2.png",
+      "DoRA/results/generated_images/full/full_prompt_2.png",
+      "DORA_ReImplementation/results/Other-results/The-Defect-results/generated_images/full/full_prompt_2.png"
+    ],
+    "sha256": "cdd61e67cc9e2aee19548921809d0ae16545e2fcec73c87c819d864f824cd077",
+    "width": 1024,
+    "height": 1024
+  },
+  {
+    "file": "assets/gallery/character/full/full_prompt_3.png",
+    "collection": "character",
+    "method": "full",
+    "sources": [
+      "DoRA/The Defect/results/generated_images/full/full_prompt_3.png",
+      "DoRA/results/generated_images/full/full_prompt_3.png",
+      "DORA_ReImplementation/results/Other-results/The-Defect-results/generated_images/full/full_prompt_3.png"
+    ],
+    "sha256": "25ea1d3dbb85bbdb290dd701f2c099bf615fc93a7514e4266ecb4ccc9b27b2e8",
+    "width": 1024,
+    "height": 1024
+  },
+  {
+    "file": "assets/gallery/character/lora/lora_prompt_1.png",
+    "collection": "character",
+    "method": "lora",
+    "sources": [
+      "DoRA/The Defect/results/generated_images/lora/lora_prompt_1.png",
+      "DoRA/results/generated_images/lora/lora_prompt_1.png",
+      "DORA_ReImplementation/results/Other-results/The-Defect-results/generated_images/lora/lora_prompt_1.png"
+    ],
+    "sha256": "cff1514d79df87c0b39e016b055d9d36904790afc680e21b39e18d067864ea97",
+    "width": 1024,
+    "height": 1024
+  },
+  {
+    "file": "assets/gallery/character/lora/lora_prompt_2.png",
+    "collection": "character",
+    "method": "lora",
+    "sources": [
+      "DoRA/The Defect/results/generated_images/lora/lora_prompt_2.png",
+      "DoRA/results/generated_images/lora/lora_prompt_2.png",
+      "DORA_ReImplementation/results/Other-results/The-Defect-results/generated_images/lora/lora_prompt_2.png"
+    ],
+    "sha256": "4d71d5acdf634edebfd19c3833fe1e82b4cb6884f9492fed1e5508c0ebca3abd",
+    "width": 1024,
+    "height": 1024
+  },
+  {
+    "file": "assets/gallery/character/lora/lora_prompt_3.png",
+    "collection": "character",
+    "method": "lora",
+    "sources": [
+      "DoRA/The Defect/results/generated_images/lora/lora_prompt_3.png",
+      "DoRA/results/generated_images/lora/lora_prompt_3.png",
+      "DORA_ReImplementation/results/Other-results/The-Defect-results/generated_images/lora/lora_prompt_3.png"
+    ],
+    "sha256": "371e3760c89430f8e28a0f0ff619be7e6822d074517c658bcb9d4e7de58e518f",
+    "width": 1024,
+    "height": 1024
+  },
+  {
+    "file": "assets/gallery/ink-variants/dora/dora_prompt_4.png",
+    "collection": "ink-variants",
+    "method": "dora",
+    "sources": [
+      "DoRA/results/generated_images/dora/dora_prompt_4.png"
+    ],
+    "sha256": "00b2eec3a4c682771f7607ef8f46ec15f354507239edec82c575ad3cb0171366",
+    "width": 1024,
+    "height": 1024
+  },
+  {
+    "file": "assets/gallery/ink-variants/dora/dora_prompt_5.png",
+    "collection": "ink-variants",
+    "method": "dora",
+    "sources": [
+      "DoRA/results/generated_images/dora/dora_prompt_5.png"
+    ],
+    "sha256": "6d129d78bc1811067b1b97c1093e93e872b56cf1db96819fd655066ff5901330",
+    "width": 1024,
+    "height": 1024
+  },
+  {
+    "file": "assets/gallery/ink-variants/dora/dora_prompt_6.png",
+    "collection": "ink-variants",
+    "method": "dora",
+    "sources": [
+      "DoRA/results/generated_images/dora/dora_prompt_6.png"
+    ],
+    "sha256": "4131cb2926643e7a79b9448093c1a764ec9f4599f79603610a84f826972993bc",
+    "width": 1024,
+    "height": 1024
+  },
+  {
+    "file": "assets/gallery/ink-variants/full/full_prompt_4.png",
+    "collection": "ink-variants",
+    "method": "full",
+    "sources": [
+      "DoRA/results/generated_images/full/full_prompt_4.png",
+      "Image Demo/generated_images/full/full_prompt_4.png"
+    ],
+    "sha256": "7c0ce287e66bad69d3b784bdc19d7b35c9ec7bb53a5ca221133dc81f131a0c9d",
+    "width": 1024,
+    "height": 1024
+  },
+  {
+    "file": "assets/gallery/ink-variants/full/full_prompt_5.png",
+    "collection": "ink-variants",
+    "method": "full",
+    "sources": [
+      "DoRA/results/generated_images/full/full_prompt_5.png",
+      "Image Demo/generated_images/full/full_prompt_5.png"
+    ],
+    "sha256": "d5c30f9f3d0b5165db0532d26bd0e5abeba4b90d1a658e0c403e1933aa2606dd",
+    "width": 1024,
+    "height": 1024
+  },
+  {
+    "file": "assets/gallery/ink-variants/full/full_prompt_6.png",
+    "collection": "ink-variants",
+    "method": "full",
+    "sources": [
+      "DoRA/results/generated_images/full/full_prompt_6.png",
+      "Image Demo/generated_images/full/full_prompt_6.png"
+    ],
+    "sha256": "1864477a10ec73ba8ba453fc7f0c848769cdfaba644e5a3281a95066dc64ad7a",
+    "width": 1024,
+    "height": 1024
+  },
+  {
+    "file": "assets/gallery/ink-variants/lora/lora_prompt_4.png",
+    "collection": "ink-variants",
+    "method": "lora",
+    "sources": [
+      "DoRA/results/generated_images/lora/lora_prompt_4.png"
+    ],
+    "sha256": "cde2aefb7f7f18a4ef23c320e5a9b9797b119d151a1df1abf3c8495c3b1321d9",
+    "width": 1024,
+    "height": 1024
+  },
+  {
+    "file": "assets/gallery/ink-variants/lora/lora_prompt_5.png",
+    "collection": "ink-variants",
+    "method": "lora",
+    "sources": [
+      "DoRA/results/generated_images/lora/lora_prompt_5.png"
+    ],
+    "sha256": "9e40575349b7ea978c86a44c4545376699c5391ad311be281ec7af47ed3d0f19",
+    "width": 1024,
+    "height": 1024
+  },
+  {
+    "file": "assets/gallery/ink-variants/lora/lora_prompt_6.png",
+    "collection": "ink-variants",
+    "method": "lora",
+    "sources": [
+      "DoRA/results/generated_images/lora/lora_prompt_6.png"
+    ],
+    "sha256": "baf7d1b067f05e69b8277a68293b3e4844388a3321f2edb6ae2e3d4a2c95d669",
+    "width": 1024,
+    "height": 1024
+  },
+  {
+    "file": "assets/gallery/demo-variants/full/full_prompt_1.png",
+    "collection": "demo-variants",
+    "method": "full",
+    "sources": [
+      "Image Demo/generated_images/full/full_prompt_1.png"
+    ],
+    "sha256": "bf73b89d6fcacee28b30f869007517521b1bb2ee511f56d720454db9f6e036f3",
+    "width": 232,
+    "height": 226
+  },
+  {
+    "file": "assets/gallery/demo-variants/full/full_prompt_2.png",
+    "collection": "demo-variants",
+    "method": "full",
+    "sources": [
+      "Image Demo/generated_images/full/full_prompt_2.png"
+    ],
+    "sha256": "27f555ee42f928cb21282e9c5925b6cff0670c648aaf7d10c15d9eb8eb2d5834",
+    "width": 232,
+    "height": 224
+  },
+  {
+    "file": "assets/gallery/demo-variants/full/full_prompt_3.png",
+    "collection": "demo-variants",
+    "method": "full",
+    "sources": [
+      "Image Demo/generated_images/full/full_prompt_3.png"
+    ],
+    "sha256": "f80db20e7884c330771275b0122060df874590dc3ad592b71ff33afd4b47d22c",
+    "width": 232,
+    "height": 228
+  }
+]

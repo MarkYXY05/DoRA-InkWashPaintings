@@ -1,0 +1,15 @@
+{
+  "chinese_ink": {
+    "prefix": "a sks traditional Chinese ink wash landscape painting of ...",
+    "subjects": [
+      "Rugged mountain cliffs, a secluded village, pine forests, streams, calligraphy, and red seals on aged paper",
+      "A riverside hut beneath pine, willow, and bamboo, with a calm lake and distant misty mountains",
+      "Waterfowl on a placid lake, misty mountains, willow trees, and a lone fishing boat",
+      "Jagged mountains, foreground trees, open water, calligraphy, and a large red seal on aged paper",
+      "A futuristic cyberpunk city with towering layered buildings, glowing lantern-like signs, narrow bridges, and misty streets",
+      "A modern sports car in an open landscape with soft mountains and sparse trees"
+    ],
+    "source": "DoRA/Complete Pipeline Diffusion DoRA - Chinese Paintings.ipynb",
+    "note": "Subject descriptions shortened for display; full prompts are in the notebook."
+  }
+}

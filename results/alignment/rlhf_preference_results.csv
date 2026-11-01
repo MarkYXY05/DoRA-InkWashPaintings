@@ -1,0 +1,5 @@
+Method,rank r,Preference Acc.,Mean Margin
+LoRA,8,52.0,10.2243
+LoRA,16,52.0,10.1467
+DoRA,8,52.0,10.1337
+DoRA,16,52.5,10.0761

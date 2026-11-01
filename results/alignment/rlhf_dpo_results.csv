@@ -1,0 +1,5 @@
+Method,rank r,Raw LogP Acc.,DPO Reward Acc.,Raw LogP Margin,DPO Reward Margin
+LoRA,16,46.2,51.2,-5.9456,0.0332
+LoRA,32,47.6,55.9,-5.4257,0.0852
+DoRA,16,46.7,52.6,-5.5950,0.0683
+DoRA,32,47.2,54.8,-5.3953,0.0883

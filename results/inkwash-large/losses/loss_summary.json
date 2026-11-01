@@ -1,0 +1,23 @@
+{
+  "lora": {
+    "num_steps": 2000,
+    "final_loss": 0.032252587378025055,
+    "mean_loss": 0.14214105599804316,
+    "last_100_mean_loss": 0.1369656708347611,
+    "csv_path": "/content/drive/My Drive/Colab_Notebooks/DoRA/results/losses/lora_losses.csv"
+  },
+  "dora": {
+    "num_steps": 2000,
+    "final_loss": 0.09231317043304443,
+    "mean_loss": 0.1441822341957595,
+    "last_100_mean_loss": 0.1331062472355552,
+    "csv_path": "/content/drive/My Drive/Colab_Notebooks/DoRA/results/losses/dora_losses.csv"
+  },
+  "full": {
+    "num_steps": 2000,
+    "final_loss": 0.14028286933898926,
+    "mean_loss": 0.14152699885109904,
+    "last_100_mean_loss": 0.13021080169361085,
+    "csv_path": "/content/drive/My Drive/Colab_Notebooks/DoRA/results/losses/full_losses.csv"
+  }
+}

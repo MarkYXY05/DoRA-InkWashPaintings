@@ -1,0 +1,38 @@
+[
+  {
+    "method": "base",
+    "replace_count": 0,
+    "trainable_params": 0,
+    "total_params": 2567463684,
+    "trainable_params_m": 0.0,
+    "total_params_m": 2567.463684,
+    "trainable_percent": 0.0
+  },
+  {
+    "method": "lora",
+    "replace_count": 560,
+    "trainable_params": 11612160,
+    "total_params": 2579075844,
+    "trainable_params_m": 11.61216,
+    "total_params_m": 2579.075844,
+    "trainable_percent": 0.4502449986887629
+  },
+  {
+    "method": "dora",
+    "replace_count": 560,
+    "trainable_params": 12277760,
+    "total_params": 2579741444,
+    "trainable_params_m": 12.27776,
+    "total_params_m": 2579.741444,
+    "trainable_percent": 0.47592986609397586
+  },
+  {
+    "method": "full",
+    "replace_count": 560,
+    "trainable_params": 955353600,
+    "total_params": 2567463684,
+    "trainable_params_m": 955.3536,
+    "total_params_m": 2567.463684,
+    "trainable_percent": 37.210014145617805
+  }
+]

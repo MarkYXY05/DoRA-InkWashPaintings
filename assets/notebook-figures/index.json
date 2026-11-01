@@ -1,0 +1,398 @@
+[
+  {
+    "file": "assets/notebook-figures/inkwash-large-cell-24-output-5.png",
+    "sha256": "3147f4206331295fbfe3259d600b08847ccc72eaeb6d9112f45c5afa5ac187a8",
+    "sources": [
+      {
+        "notebook": "DoRA/Complete Pipeline Diffusion DoRA - Chinese Paintings.ipynb",
+        "cell_index": 24,
+        "output_index": 5
+      },
+      {
+        "notebook": "DoRA/Complete Pipeline Diffusion DoRA - Small-Set Chinese Paintings.ipynb",
+        "cell_index": 23,
+        "output_index": 5
+      },
+      {
+        "notebook": "DORA_ReImplementation/code/Complete_Pipeline_Diffusion_DoRA_Small_Set_Chinese_Paintings.ipynb",
+        "cell_index": 23,
+        "output_index": 5
+      }
+    ]
+  },
+  {
+    "file": "assets/notebook-figures/inkwash-large-cell-30-output-62.png",
+    "sha256": "8ddfe095378620f796bfdf1b5b422ca1d3a0f2b8e3fac79897819bbd0e464c5a",
+    "sources": [
+      {
+        "notebook": "DoRA/Complete Pipeline Diffusion DoRA - Chinese Paintings.ipynb",
+        "cell_index": 30,
+        "output_index": 62
+      }
+    ]
+  },
+  {
+    "file": "assets/notebook-figures/inkwash-large-cell-30-output-63.png",
+    "sha256": "384b26cd7699b4eee09d407a71e769f10f65f948cacd003edf9ec46aa3282bbe",
+    "sources": [
+      {
+        "notebook": "DoRA/Complete Pipeline Diffusion DoRA - Chinese Paintings.ipynb",
+        "cell_index": 30,
+        "output_index": 63
+      }
+    ]
+  },
+  {
+    "file": "assets/notebook-figures/inkwash-large-cell-40-output-1.png",
+    "sha256": "8c8edf3750836dfe1086fddc4ac9ed021a1d60f15a0d592a32ed61549126c008",
+    "sources": [
+      {
+        "notebook": "DoRA/Complete Pipeline Diffusion DoRA - Chinese Paintings.ipynb",
+        "cell_index": 40,
+        "output_index": 1
+      }
+    ]
+  },
+  {
+    "file": "assets/notebook-figures/inkwash-large-cell-42-output-0.png",
+    "sha256": "128e3a5771087de661a92b9cf408b293cbdb1f938f31184b4496915d2e5847d5",
+    "sources": [
+      {
+        "notebook": "DoRA/Complete Pipeline Diffusion DoRA - Chinese Paintings.ipynb",
+        "cell_index": 42,
+        "output_index": 0
+      },
+      {
+        "notebook": "DoRA/Complete Pipeline Diffusion DoRA - Small-Set Chinese Paintings.ipynb",
+        "cell_index": 41,
+        "output_index": 0
+      },
+      {
+        "notebook": "DoRA/Line-sketch/Complete Pipeliine Diffusion DoRA - LineSketch.ipynb",
+        "cell_index": 44,
+        "output_index": 0
+      },
+      {
+        "notebook": "DoRA/Line Sketch Cake/Complete Pipeliine Diffusion DoRA - Line Sketch Cake.ipynb",
+        "cell_index": 42,
+        "output_index": 0
+      },
+      {
+        "notebook": "DoRA/The Defect/Complete Pipeliine Diffusion DoRA - The Defect.ipynb",
+        "cell_index": 42,
+        "output_index": 0
+      },
+      {
+        "notebook": "DORA_ReImplementation/code/Complete_Pipeline_Diffusion_DoRA_Small_Set_Chinese_Paintings.ipynb",
+        "cell_index": 41,
+        "output_index": 0
+      }
+    ]
+  },
+  {
+    "file": "assets/notebook-figures/inkwash-large-cell-45-output-1.png",
+    "sha256": "7742f7bb8f64143e31d6e57a524dc52a148d2a6a639f965d9e0c1db16bc5f123",
+    "sources": [
+      {
+        "notebook": "DoRA/Complete Pipeline Diffusion DoRA - Chinese Paintings.ipynb",
+        "cell_index": 45,
+        "output_index": 1
+      }
+    ]
+  },
+  {
+    "file": "assets/notebook-figures/inkwash-small-cell-29-output-62.png",
+    "sha256": "c64171f7f950624126ea657a090f64296f1fcc702e37f84865a07e688f10911d",
+    "sources": [
+      {
+        "notebook": "DoRA/Complete Pipeline Diffusion DoRA - Small-Set Chinese Paintings.ipynb",
+        "cell_index": 29,
+        "output_index": 62
+      },
+      {
+        "notebook": "DORA_ReImplementation/code/Complete_Pipeline_Diffusion_DoRA_Small_Set_Chinese_Paintings.ipynb",
+        "cell_index": 29,
+        "output_index": 62
+      }
+    ]
+  },
+  {
+    "file": "assets/notebook-figures/inkwash-small-cell-29-output-63.png",
+    "sha256": "2f68b8ae0b2436e66ef04b5ccbe243610451838871f4ebabe4292fc32610e9f2",
+    "sources": [
+      {
+        "notebook": "DoRA/Complete Pipeline Diffusion DoRA - Small-Set Chinese Paintings.ipynb",
+        "cell_index": 29,
+        "output_index": 63
+      },
+      {
+        "notebook": "DORA_ReImplementation/code/Complete_Pipeline_Diffusion_DoRA_Small_Set_Chinese_Paintings.ipynb",
+        "cell_index": 29,
+        "output_index": 63
+      }
+    ]
+  },
+  {
+    "file": "assets/notebook-figures/inkwash-small-cell-39-output-1.png",
+    "sha256": "b8b4e69a958eed011f5ca5d307d0953325a3d526cbd86fe11f1b98019de7a75e",
+    "sources": [
+      {
+        "notebook": "DoRA/Complete Pipeline Diffusion DoRA - Small-Set Chinese Paintings.ipynb",
+        "cell_index": 39,
+        "output_index": 1
+      },
+      {
+        "notebook": "DORA_ReImplementation/code/Complete_Pipeline_Diffusion_DoRA_Small_Set_Chinese_Paintings.ipynb",
+        "cell_index": 39,
+        "output_index": 1
+      }
+    ]
+  },
+  {
+    "file": "assets/notebook-figures/inkwash-small-cell-44-output-17.png",
+    "sha256": "f945d8c253d106ce4a58d499bc82a68932ca08e4a21fd3fb46d954d8a0bf7ae5",
+    "sources": [
+      {
+        "notebook": "DoRA/Complete Pipeline Diffusion DoRA - Small-Set Chinese Paintings.ipynb",
+        "cell_index": 44,
+        "output_index": 17
+      },
+      {
+        "notebook": "DORA_ReImplementation/code/Complete_Pipeline_Diffusion_DoRA_Small_Set_Chinese_Paintings.ipynb",
+        "cell_index": 44,
+        "output_index": 17
+      }
+    ]
+  },
+  {
+    "file": "assets/notebook-figures/line-sketch-cell-26-output-5.png",
+    "sha256": "2639aaabe92ad1c4eed1a7a869e0816b838b9e0a494f2bc04674e1500018e73c",
+    "sources": [
+      {
+        "notebook": "DoRA/Line-sketch/Complete Pipeliine Diffusion DoRA - LineSketch.ipynb",
+        "cell_index": 26,
+        "output_index": 5
+      }
+    ]
+  },
+  {
+    "file": "assets/notebook-figures/line-sketch-cell-32-output-54.png",
+    "sha256": "c6eb4e09b7af47f4de75f96aa54f15f89dcfb939079b074ba15fb991e875f5a3",
+    "sources": [
+      {
+        "notebook": "DoRA/Line-sketch/Complete Pipeliine Diffusion DoRA - LineSketch.ipynb",
+        "cell_index": 32,
+        "output_index": 54
+      }
+    ]
+  },
+  {
+    "file": "assets/notebook-figures/line-sketch-cell-32-output-55.png",
+    "sha256": "783990aa57014ba465c39e436c4ae97ceeef89f5bcda8dfc4cd69705bb466e05",
+    "sources": [
+      {
+        "notebook": "DoRA/Line-sketch/Complete Pipeliine Diffusion DoRA - LineSketch.ipynb",
+        "cell_index": 32,
+        "output_index": 55
+      }
+    ]
+  },
+  {
+    "file": "assets/notebook-figures/line-sketch-cell-41-output-0.png",
+    "sha256": "4ce9bcf5c20095d1ed6675597b11ca9efbbb793d5e37ba841332b3dbd336f110",
+    "sources": [
+      {
+        "notebook": "DoRA/Line-sketch/Complete Pipeliine Diffusion DoRA - LineSketch.ipynb",
+        "cell_index": 41,
+        "output_index": 0
+      }
+    ]
+  },
+  {
+    "file": "assets/notebook-figures/line-sketch-cell-42-output-1.png",
+    "sha256": "e1c92b07f7af5962e87e1e047a6ac926d4f0cf89e101245be4ca2949ce21cdc1",
+    "sources": [
+      {
+        "notebook": "DoRA/Line-sketch/Complete Pipeliine Diffusion DoRA - LineSketch.ipynb",
+        "cell_index": 42,
+        "output_index": 1
+      }
+    ]
+  },
+  {
+    "file": "assets/notebook-figures/cake-sketch-cell-24-output-5.png",
+    "sha256": "7512bb1b4a89e8ccea0c3a2d8a38f2adf118f6e9c074d1587fe7e0124ee1a34e",
+    "sources": [
+      {
+        "notebook": "DoRA/Line Sketch Cake/Complete Pipeliine Diffusion DoRA - Line Sketch Cake.ipynb",
+        "cell_index": 24,
+        "output_index": 5
+      }
+    ]
+  },
+  {
+    "file": "assets/notebook-figures/cake-sketch-cell-30-output-52.png",
+    "sha256": "bb03e22d478e56283f425869e1a1a1b795c4df74759e26176d0bb9020cbc4ef1",
+    "sources": [
+      {
+        "notebook": "DoRA/Line Sketch Cake/Complete Pipeliine Diffusion DoRA - Line Sketch Cake.ipynb",
+        "cell_index": 30,
+        "output_index": 52
+      }
+    ]
+  },
+  {
+    "file": "assets/notebook-figures/cake-sketch-cell-30-output-53.png",
+    "sha256": "2b6d091f4329002a8569c4433e55fe8d55dc1d540ebee0a791d1d33195979e8f",
+    "sources": [
+      {
+        "notebook": "DoRA/Line Sketch Cake/Complete Pipeliine Diffusion DoRA - Line Sketch Cake.ipynb",
+        "cell_index": 30,
+        "output_index": 53
+      }
+    ]
+  },
+  {
+    "file": "assets/notebook-figures/cake-sketch-cell-39-output-0.png",
+    "sha256": "5a2dcfb7717762dbf940fe7a9d0a04d73476ca45e3d86830619a20663e79d035",
+    "sources": [
+      {
+        "notebook": "DoRA/Line Sketch Cake/Complete Pipeliine Diffusion DoRA - Line Sketch Cake.ipynb",
+        "cell_index": 39,
+        "output_index": 0
+      }
+    ]
+  },
+  {
+    "file": "assets/notebook-figures/cake-sketch-cell-40-output-1.png",
+    "sha256": "0283c2a77aeec2222784208bc263592c922d24533531bde5751bb1591c9b6196",
+    "sources": [
+      {
+        "notebook": "DoRA/Line Sketch Cake/Complete Pipeliine Diffusion DoRA - Line Sketch Cake.ipynb",
+        "cell_index": 40,
+        "output_index": 1
+      }
+    ]
+  },
+  {
+    "file": "assets/notebook-figures/character-cell-24-output-5.png",
+    "sha256": "0b741ed0e50b458aa11031fe87872dda3d8e677ecd88d85ead3a6ff8f8e787ba",
+    "sources": [
+      {
+        "notebook": "DoRA/The Defect/Complete Pipeliine Diffusion DoRA - The Defect.ipynb",
+        "cell_index": 24,
+        "output_index": 5
+      }
+    ]
+  },
+  {
+    "file": "assets/notebook-figures/character-cell-30-output-50.png",
+    "sha256": "6887692a22ca3961bbf2dd311cd9a6708891567f302ddfb42ad5e74883984054",
+    "sources": [
+      {
+        "notebook": "DoRA/The Defect/Complete Pipeliine Diffusion DoRA - The Defect.ipynb",
+        "cell_index": 30,
+        "output_index": 50
+      }
+    ]
+  },
+  {
+    "file": "assets/notebook-figures/character-cell-30-output-51.png",
+    "sha256": "90ce7946943978f278710e493d10e40921de7c3c35df649f28ccb4a2ce9a9f47",
+    "sources": [
+      {
+        "notebook": "DoRA/The Defect/Complete Pipeliine Diffusion DoRA - The Defect.ipynb",
+        "cell_index": 30,
+        "output_index": 51
+      }
+    ]
+  },
+  {
+    "file": "assets/notebook-figures/character-cell-39-output-0.png",
+    "sha256": "5c6a35adc5b3941fda2a6679119d291b690ad0f0043828b6cd6e98e2eb1b3d77",
+    "sources": [
+      {
+        "notebook": "DoRA/The Defect/Complete Pipeliine Diffusion DoRA - The Defect.ipynb",
+        "cell_index": 39,
+        "output_index": 0
+      }
+    ]
+  },
+  {
+    "file": "assets/notebook-figures/character-cell-40-output-1.png",
+    "sha256": "8f5c61787304ab25fd4479ec71518e7675c4e8a35ac163b205a97dfdc20b2041",
+    "sources": [
+      {
+        "notebook": "DoRA/The Defect/Complete Pipeliine Diffusion DoRA - The Defect.ipynb",
+        "cell_index": 40,
+        "output_index": 1
+      }
+    ]
+  },
+  {
+    "file": "assets/notebook-figures/weight-decomposition-cell-35-output-0.png",
+    "sha256": "d4e0e421819fc3dfc92f2ea4a31a4a365e75d794e18b8305cc4d64ad71107bcb",
+    "sources": [
+      {
+        "notebook": "DORA_ReImplementation/code/DoRA_weight_decomposition.ipynb",
+        "cell_index": 35,
+        "output_index": 0
+      }
+    ]
+  },
+  {
+    "file": "assets/notebook-figures/weight-decomposition-cell-41-output-48.png",
+    "sha256": "69e657fdfc6c087e6b112623942de6700b40b9a66909c50094a75b6396d2267d",
+    "sources": [
+      {
+        "notebook": "DORA_ReImplementation/code/DoRA_weight_decomposition.ipynb",
+        "cell_index": 41,
+        "output_index": 48
+      }
+    ]
+  },
+  {
+    "file": "assets/notebook-figures/weight-decomposition-cell-41-output-49.png",
+    "sha256": "001bb10990a4e9e75c17d4223a934bb47dadbe596105314db13946450ab0c0f9",
+    "sources": [
+      {
+        "notebook": "DORA_ReImplementation/code/DoRA_weight_decomposition.ipynb",
+        "cell_index": 41,
+        "output_index": 49
+      }
+    ]
+  },
+  {
+    "file": "assets/notebook-figures/weight-decomposition-cell-42-output-25.png",
+    "sha256": "a057609e009a6311338bc94726299bd6812b25346ca928cb1662496e35d489f9",
+    "sources": [
+      {
+        "notebook": "DORA_ReImplementation/code/DoRA_weight_decomposition.ipynb",
+        "cell_index": 42,
+        "output_index": 25
+      }
+    ]
+  },
+  {
+    "file": "assets/notebook-figures/inkwash-small-packaged-cell-38-output-0.png",
+    "sha256": "c153346969e155cbb4f569ff00aac88e42a50ec1edd330e61ad222c97292c4aa",
+    "sources": [
+      {
+        "notebook": "DORA_ReImplementation/code/Complete_Pipeline_Diffusion_DoRA_Small_Set_Chinese_Paintings.ipynb",
+        "cell_index": 38,
+        "output_index": 0
+      }
+    ]
+  },
+  {
+    "file": "assets/notebook-figures/diffusion-prototype-cell-17-output-9.png",
+    "sha256": "9f61d9f9933bd3f0d2ca93d36dfa88f21ace670e213a1873246fca33f6fe7976",
+    "sources": [
+      {
+        "notebook": "DoRA/DoRA for Diffusion.ipynb",
+        "cell_index": 17,
+        "output_index": 9
+      }
+    ]
+  }
+]

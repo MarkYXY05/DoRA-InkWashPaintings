@@ -1,0 +1,2 @@
+Method,rank r,# Params (%),BoolQ,PIQA,SIQA,HellaSwag,WinoGrande,ARC-e,ARC-c,OBQA,Avg.
+DoRA (Ours),16,0.43,15.6,53.1,25.0,31.2,46.9,12.5,28.1,21.9,29.3

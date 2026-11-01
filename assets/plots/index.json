@@ -1,0 +1,227 @@
+[
+  {
+    "file": "assets/plots/dora-chinese-art-large-results/loss_comparison_3way.png",
+    "sources": [
+      "DoRA/Chinese-art-large-results/loss_comparison_3way.png",
+      "DORA_ReImplementation/results/Diffusion-Chinese-painting-results/loss_comparison_3way.png"
+    ],
+    "sha256": "300dd04abe350d19cc0f90f87dd852e3a6594a567ce92f1cb02ee8d96aec5252"
+  },
+  {
+    "file": "assets/plots/dora-chinese-art-large-results-plots/Copy-of-inference_grid.png",
+    "sources": [
+      "DoRA/Chinese-art-large-results/plots/Copy of inference_grid.png",
+      "DoRA/Chinese-art-large-results/plots/inference_grid.png",
+      "DORA_ReImplementation/results/Diffusion-Chinese-painting-results/plots/Copy of inference_grid.png",
+      "DORA_ReImplementation/results/Diffusion-Chinese-painting-results/plots/inference_grid.png"
+    ],
+    "sha256": "96e97be1850367f1987cb7daa95a5f82347134f0516b746ff7dc4e9f0d263d51"
+  },
+  {
+    "file": "assets/plots/dora-chinese-art-large-results-plots/final_average_loss_bar.png",
+    "sources": [
+      "DoRA/Chinese-art-large-results/plots/final_average_loss_bar.png",
+      "DORA_ReImplementation/results/Diffusion-Chinese-painting-results/plots/final_average_loss_bar.png"
+    ],
+    "sha256": "77c54d17656fdceac9723e21915ad5eb07b2d7efa2cee5a31db08a9ce4a1b0ee"
+  },
+  {
+    "file": "assets/plots/dora-chinese-art-large-results-plots/style_similarity_bar.png",
+    "sources": [
+      "DoRA/Chinese-art-large-results/plots/style_similarity_bar.png",
+      "DORA_ReImplementation/results/Diffusion-Chinese-painting-results/plots/style_similarity_bar.png"
+    ],
+    "sha256": "71bf71398b59aec430218b4943c9ea9f4e7d97c1a9b8d83d44becc0457dbb211"
+  },
+  {
+    "file": "assets/plots/dora-chinese-art-large-results-plots/trainable_params_bar.png",
+    "sources": [
+      "DoRA/Chinese-art-large-results/plots/trainable_params_bar.png",
+      "DoRA/results/plots/trainable_params_bar.png",
+      "DoRA/results-small-set-ChineseArt/plots/trainable_params_bar.png",
+      "DORA_ReImplementation/results/Diffusion-Chinese-painting-results/plots/trainable_params_bar.png"
+    ],
+    "sha256": "0165b30b0efac0443e58e15ff7c2e573601c2a016827593973d0b23ee736c23f"
+  },
+  {
+    "file": "assets/plots/dora-chinese-art-large-results/ultimate_4way_comparison.png",
+    "sources": [
+      "DoRA/Chinese-art-large-results/ultimate_4way_comparison.png",
+      "DORA_ReImplementation/results/Diffusion-Chinese-painting-results/ultimate_4way_comparison.png"
+    ],
+    "sha256": "5c133d0781273be3366828750f433e5b9dcb7c97458332de6ddb19a4d1d82c5f"
+  },
+  {
+    "file": "assets/plots/dora-line-sketch-cake-results/loss_comparison_3way.png",
+    "sources": [
+      "DoRA/Line Sketch Cake/results/loss_comparison_3way.png",
+      "DORA_ReImplementation/results/Other-results/Cake-results/loss_comparison_3way.png"
+    ],
+    "sha256": "d00b636b7de9ef576543dea4be0d406361a768cf13148a686fd8c7a73bcd18ce"
+  },
+  {
+    "file": "assets/plots/dora-line-sketch-cake-results/ultimate_4way_comparison.png",
+    "sources": [
+      "DoRA/Line Sketch Cake/results/ultimate_4way_comparison.png",
+      "DORA_ReImplementation/results/Other-results/Cake-results/ultimate_4way_comparison.png"
+    ],
+    "sha256": "96a6522134665b425b69e7c1d36cba908af5b346c06b5ad7cc0668ec796b76be"
+  },
+  {
+    "file": "assets/plots/dora-line-sketch-line-sketch-results/loss_comparison_3way.png",
+    "sources": [
+      "DoRA/Line-sketch/line-sketch_results/loss_comparison_3way.png"
+    ],
+    "sha256": "089e6df7d4f0a5f1bec3a153b7c58f05783bc2f845923d931d809ed9c0834f41"
+  },
+  {
+    "file": "assets/plots/dora-line-sketch-line-sketch-results/ultimate_4way_comparison.png",
+    "sources": [
+      "DoRA/Line-sketch/line-sketch_results/ultimate_4way_comparison.png"
+    ],
+    "sha256": "c15c0b9f8a292f87cacd10a9e78929e372a01c1be9bf2510bfc10a79dccf2397"
+  },
+  {
+    "file": "assets/plots/dora-the-defect-results/loss_comparison_3way.png",
+    "sources": [
+      "DoRA/The Defect/results/loss_comparison_3way.png",
+      "DORA_ReImplementation/results/Other-results/The-Defect-results/loss_comparison_3way.png"
+    ],
+    "sha256": "cce0671cdd76079c657cfabb4415e7303ece5b0f4316b604f52a729e820bc26c"
+  },
+  {
+    "file": "assets/plots/dora-the-defect-results/ultimate_4way_comparison.png",
+    "sources": [
+      "DoRA/The Defect/results/ultimate_4way_comparison.png",
+      "DORA_ReImplementation/results/Other-results/The-Defect-results/ultimate_4way_comparison.png"
+    ],
+    "sha256": "c42949e1f85be4e1aac6027049d37cf1e1abc273a9c046711f537f45e76dabd5"
+  },
+  {
+    "file": "assets/plots/dora-outputs-table15-reproduction/method_comparison_chart.png",
+    "sources": [
+      "DoRA/outputs_table15_reproduction/method_comparison_chart.png",
+      "DORA_ReImplementation/results/Commonsense-Results/llama13b_paper_methods_chart.png"
+    ],
+    "sha256": "56a368c984f67abd3fcf27e6203c147da3f9e6533397b5cdef0f77cd1b7afc6c"
+  },
+  {
+    "file": "assets/plots/dora-results/loss_comparison_3way.png",
+    "sources": [
+      "DoRA/results/loss_comparison_3way.png"
+    ],
+    "sha256": "309366cce6620e7192bfe3054245f647f952b4f071d9455c443109ae40619e83"
+  },
+  {
+    "file": "assets/plots/dora-results-plots/final_average_loss_bar.png",
+    "sources": [
+      "DoRA/results/plots/final_average_loss_bar.png"
+    ],
+    "sha256": "27a5c4d4d32f9670405f7d632ca9718b3a8217938240e0f863857b45bb83fdd6"
+  },
+  {
+    "file": "assets/plots/dora-results-plots/inference_grid.png",
+    "sources": [
+      "DoRA/results/plots/inference_grid.png"
+    ],
+    "sha256": "23351f47809b013ac47b20f1c26f7db1ed932ae560dd0d9b8053be57fbbc6af8"
+  },
+  {
+    "file": "assets/plots/dora-results-plots/style_similarity_bar.png",
+    "sources": [
+      "DoRA/results/plots/style_similarity_bar.png"
+    ],
+    "sha256": "0503d3612ccdac59b4376873d0d10b4658d6f8298bd494e0efb9b423454eeb56"
+  },
+  {
+    "file": "assets/plots/dora-results/ultimate_4way_comparison.png",
+    "sources": [
+      "DoRA/results/ultimate_4way_comparison.png"
+    ],
+    "sha256": "2fa36b1471e2908228dbf03d0ff0e464f09d939f9556c6ffcb1e9102be2380f9"
+  },
+  {
+    "file": "assets/plots/dora-results-small-set-chineseart-plots/final_average_loss_bar.png",
+    "sources": [
+      "DoRA/results-small-set-ChineseArt/plots/final_average_loss_bar.png"
+    ],
+    "sha256": "e83700dd98525ab4b63da546c2a1342462a60a1a709a4caed0d398339f88b2ec"
+  },
+  {
+    "file": "assets/plots/dora-results-small-set-chineseart-plots/inference_grid.png",
+    "sources": [
+      "DoRA/results-small-set-ChineseArt/plots/inference_grid.png"
+    ],
+    "sha256": "531e9e2f2ed63151d05ae584c3fd2c003163e05d616df5f2b863f4bd327f7e69"
+  },
+  {
+    "file": "assets/plots/dora-reimplementation-results-commonsense-results/llama13b_own_methods_chart.png",
+    "sources": [
+      "DORA_ReImplementation/results/Commonsense-Results/llama13b_own_methods_chart.png"
+    ],
+    "sha256": "f26eb4781b7a4511dd29eb1380684a84c390536158d14ba9e33182d3af9d0c0c"
+  },
+  {
+    "file": "assets/plots/dora-reimplementation-results-commonsense-results/llama2-7b_own_methods_chart.png",
+    "sources": [
+      "DORA_ReImplementation/results/Commonsense-Results/llama2-7b_own_methods_chart.png"
+    ],
+    "sha256": "130b2cddb862a5886deb986f3245fe6d03aaf42b7c6a1c700cd012a6181b455a"
+  },
+  {
+    "file": "assets/plots/dora-reimplementation-results-commonsense-results/llama2-7b_paper_methods_chart.png",
+    "sources": [
+      "DORA_ReImplementation/results/Commonsense-Results/llama2-7b_paper_methods_chart.png"
+    ],
+    "sha256": "b6e682a388fea4b17284fbb9e7f9ebe62ab2a0dcc8a930caa41e443972709252"
+  },
+  {
+    "file": "assets/plots/dora-reimplementation-results-commonsense-results/llama3-8b_own_methods_chart.png",
+    "sources": [
+      "DORA_ReImplementation/results/Commonsense-Results/llama3-8b_own_methods_chart.png"
+    ],
+    "sha256": "7379fb93f21dc21ea9843a4522943f4c215e4307caab7dff3696cb9da4552b14"
+  },
+  {
+    "file": "assets/plots/dora-reimplementation-results-commonsense-results/llama3-8b_paper_methods_chart.png",
+    "sources": [
+      "DORA_ReImplementation/results/Commonsense-Results/llama3-8b_paper_methods_chart.png"
+    ],
+    "sha256": "21bf2744b95e250b99265dea0b58cc1c59e386ef6ccee40b3c1af36685ea9cce"
+  },
+  {
+    "file": "assets/plots/dora-reimplementation-results-commonsense-results/llama7b_own_methods_chart.png",
+    "sources": [
+      "DORA_ReImplementation/results/Commonsense-Results/llama7b_own_methods_chart.png"
+    ],
+    "sha256": "dbf6ba13228e938a9bd5712c32a23c076eaa62b81898530f173e13a38b32f709"
+  },
+  {
+    "file": "assets/plots/dora-reimplementation-results-commonsense-results/llama7b_paper_methods_chart.png",
+    "sources": [
+      "DORA_ReImplementation/results/Commonsense-Results/llama7b_paper_methods_chart.png"
+    ],
+    "sha256": "4e150d17e9887ce50bb36a9f07819926ac9404e7fabe7e901bf9d4153265e228"
+  },
+  {
+    "file": "assets/plots/dora-reimplementation-results-other-results-ivt-results/IVT-Model-Performance.png",
+    "sources": [
+      "DORA_ReImplementation/results/Other-results/IVT-results/IVT-Model Performance.png"
+    ],
+    "sha256": "3be1e3ab0a7542dc7dccf86379c18e89dbdea6986cda406079c6301601921e6e"
+  },
+  {
+    "file": "assets/plots/dora-reimplementation-results-rlhf-results/rlhf_dpo_results_chart.png",
+    "sources": [
+      "DORA_ReImplementation/results/RLHF-results/rlhf_dpo_results_chart.png"
+    ],
+    "sha256": "13bfc45e7766cc1fa74d19a6c6f075c0ef91bd90e64cae2fdc61d230c0717802"
+  },
+  {
+    "file": "assets/plots/dora-reimplementation-results-weight-decomposition/weight_decomposition_stacked.png",
+    "sources": [
+      "DORA_ReImplementation/results/Weight-Decomposition/weight_decomposition_stacked.png"
+    ],
+    "sha256": "bfc31e352987c1fec7d93d2fe2152ed7c8720f79f0bfbc073fc240de42224386"
+  }
+]

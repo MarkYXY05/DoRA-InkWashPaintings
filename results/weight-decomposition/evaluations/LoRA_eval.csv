@@ -1,0 +1,9 @@
+Method,Task,Accuracy,Train Samples,Eval Samples,# Params (%),Rank
+LoRA,BoolQ,73.5,5000,200,0.0,
+LoRA,PIQA,74.0,5000,200,0.0,
+LoRA,SIQA,74.0,5000,200,0.0,
+LoRA,HellaSwag,67.5,5000,200,0.0,
+LoRA,WinoGrande,75.0,5000,200,0.0,
+LoRA,ARC-e,81.5,5000,200,0.0,
+LoRA,ARC-c,63.0,5000,200,0.0,
+LoRA,OBQA,69.5,5000,200,0.0,
